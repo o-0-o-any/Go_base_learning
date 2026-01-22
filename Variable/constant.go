@@ -84,4 +84,5 @@ func main() {
 	fmt.Println(d1, d2, d3)
 	fmt.Println(e1, e2, e3, e4)
 	fmt.Println(f1, f2, f3, f4, f5, f6)
+	fmt.Println(KB, MB, GB, TB, PB)
 }
