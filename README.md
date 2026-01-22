@@ -10,3 +10,7 @@
 - Go 版本：1.25
 - 操作系统：Windows
 - 使用Goland编译器
+
+## 学习笔记
+- 使用语雀记录自己的学习笔记
+- https://www.yuque.com/nazale-j9dcc/bi9aag -- 我的个人笔记
