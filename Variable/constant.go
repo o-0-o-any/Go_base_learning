@@ -1,5 +1,5 @@
 /*
-学习go的常量
+学习Go的常量
 */
 
 package main
