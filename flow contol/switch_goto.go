@@ -15,6 +15,15 @@ default:  // 相当于if判断语句中的else
 语句
 }
 */
+/*
+goto的使用
+.......
+goto label_name  // 执行这句代码后会跳到label_name标签对应的语句块中
+.......
+
+label_name:  // 标签名
+    goto循环语句
+*/
 func main() {
 	// 例子 90-100分为A 80-89为B 70-79为C 60-69为D 小于60为E
 	score := 79
