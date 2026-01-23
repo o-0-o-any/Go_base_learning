@@ -79,4 +79,20 @@ func main() {
 		}
 		fmt.Println()
 	}
+	// 跳出循环
+	// break 跳出整轮循环
+	for i := 1; i < 10; i++ {
+		if i == 5 { // 当循环到5时跳出整轮循环
+			break
+		}
+		fmt.Print(i, " ")
+	} // 1 2 3 4
+	fmt.Println()
+	for i := 1; i < 10; i++ {
+		if i == 5 { // 当循环到5时 跳出其所在循环进入下一轮循环
+			continue
+		}
+		fmt.Print(i, " ")
+	} // 1 2 3 4 6 7 8 9
+	fmt.Println()
 }
